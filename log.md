@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 17, 2018
-##### (delete me or comment me out)
+<!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Learned how to use GitHub Repository, GitHub Desktop Application and GitBash.
 
-**Thoughts:** Končno sem ugotovil kako se dela z GitHubom, kako naj ga uporabljam, kako delati spremembe, izbrisati history in da ga lahko uporabljam na lokalnem računalniku. Super :)
+**Thoughts:** Končno sem ugotovil kako se dela z GitHubom, kako naj ga uporabljam, kako delati spremembe, izbrisati history in da ga lahko uporabljam na lokalnem računalniku. Super mislim, da napredujem :) Končal Basic CSS course na freecodecamp.
 
 <!--**Link to work:** [Calculator App](http://www.example.com)-->
 
