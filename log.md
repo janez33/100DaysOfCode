@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 17, 2018
-<!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Learned how to use GitHub Repository, GitHub Desktop Application and GitBash.
 
@@ -10,7 +9,7 @@
 <!--**Link to work:** [Calculator App](http://www.example.com)-->
 
 ### Day 2: June 18, 2018
-##### (delete me or comment me out)
+<!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Learned how to use CSS Variables, made a CodePen to show example of CSS variables, learned how to use Git Kraken.
 
