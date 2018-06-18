@@ -9,14 +9,14 @@
 
 <!--**Link to work:** [Calculator App](http://www.example.com)-->
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: June 18, 2018
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned how to use CSS Variables, made a CodePen to show example of CSS variables, learned how to use Git Kraken.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Precej časa sem porabil za prebiranje teksta za CSS variable, jutri naredim še en CodePen z drugim primerom.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**CodePen Example**: [CSS Variables](https://codepen.io/janez33/pen/yEpMxR)
 
 
 ### Day 1: June 27, Monday
