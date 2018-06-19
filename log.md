@@ -18,12 +18,12 @@
 **CodePen Example**: [CSS Variables](https://codepen.io/janez33/pen/yEpMxR)
 
 
-### Day 1: June 27, Monday
+### Day 3: June 19, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Learned how to use body as a wrapper, reading CSS Tricks articles. Not much, slow progress.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Jutri moram obvezno predelati tisti članek od mediumfreecodecamp in nadaljevati vaje.
 
-**Link(s) to work**
+<!--**Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
