@@ -22,12 +22,12 @@
 
 **Today's Progress**: Learned how to use body as a wrapper, reading CSS Tricks articles. Not much, slow progress.
 
-**Thoughts** Jutri moram obvezno predelati tisti članek od mediumfreecodecamp in nadaljevati vaje.
+**Thoughts**: Jutri moram obvezno predelati tisti članek od mediumfreecodecamp in nadaljevati vaje.
 
 ### Day 4: June 20, 2018
 
 **Today's Progress**: Just tried to understand the code behind my awesome portfolio articles with examples of using CSS variables. (link bellow)
 
-**Thoughts** Obvezno dokončaj ta article in nadaljuj freecodecamp.
+**Thoughts**: Obvezno dokončaj ta article in nadaljuj freecodecamp.
 
 **CodePen Example**: [Awesome portfolio - learning CSS Variables, responsiveness](https://codepen.io/janez33/pen/jKzMoa)
