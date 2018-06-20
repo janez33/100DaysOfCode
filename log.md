@@ -24,6 +24,10 @@
 
 **Thoughts** Jutri moram obvezno predelati tisti članek od mediumfreecodecamp in nadaljevati vaje.
 
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+### Day 4: June 20, 2018
+
+**Today's Progress**: Just tried to understand the code behind my awesome portfolio articles with examples of using CSS variables. (link bellow)
+
+**Thoughts** Obvezno dokončaj ta article in nadaljuj freecodecamp.
+
+**CodePen Example**: [Awesome portfolio - learning CSS Variables, responsiveness](https://codepen.io/janez33/pen/jKzMoa)
