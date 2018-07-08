@@ -31,3 +31,15 @@
 **Thoughts**: Obvezno dokončaj ta article in nadaljuj freecodecamp.
 
 **CodePen Example**: [Awesome portfolio - learning CSS Variables, responsiveness](https://codepen.io/janez33/pen/jKzMoa)
+
+### Day 5: June 21, 2018
+
+**Today's Progress**: 19 exercises of freecodecamp tutorial Applied Visual Design section, moving forward 😃
+
+**Thoughts**: //
+
+### Day 6: July 8, 2018
+
+**Today's Progress**: I did pretty big progress today, I did the whole section of Applied Accessibility, Responsive Web Design Principles and CSS Flexbox. I also listened to podcast 023: Web Development in 2017 && a look ahead at 2018 🍾🍷I'm slowly getting there! 🌱 @syntaxfm
+
+**Thoughts**: Jutri dokončam, če bo vse posreči CSS Grid Section in potem takoj grem na Responsive Web Design Projects in potem Scrimba in potem takoj moj HTML project za SB4YDIE 😋.
