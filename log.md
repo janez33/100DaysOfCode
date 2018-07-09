@@ -48,4 +48,4 @@
 
 **Today's Progress**: Day 7: Finished CSS Flexbox on @freeCodeCamp, finished Flexbox Froggy from @playcodepip for better understanding of a flexbox. I totally love flexbox now. ❤️ Listened to the rest of the podcast 023 from @syntaxfm. Tomorrow I'm learning CSS Grid. Can't wait, future awaits! 👨‍💻#100DaysOfCode
 
-**Thoughts**: Dobro napredujem, edino preveč pozno ponoči je že. Lahko da CSS Grid vzame okoli 2-3 dni ampak bo že šlo :).
+**Thoughts**: Dobro napredujem, edino preveč pozno ponoči je že. Lahko da CSS Grid vzame okoli 2-3 dni ampak bo že šlo :) (Ne pozabi na GridGarden igro :P).
