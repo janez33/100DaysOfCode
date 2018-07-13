@@ -50,7 +50,7 @@
 
 **Thoughts**: Dobro napredujem, edino preveč pozno ponoči je že. Lahko da CSS Grid vzame okoli 2-3 dni ampak bo že šlo :) (Ne pozabi na GridGarden igro :P).
 
-### Day 8: July 9, 2018
+### Day 8: July 13, 2018
 
 **Today's Progress**: Worked on my project for this weeks CodePen challenge. It's very tough but I'm getting there :) #100DaysOfCode #Codepenchallenge
 
