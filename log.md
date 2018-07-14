@@ -55,3 +55,9 @@
 **Today's Progress**: Worked on my project for this weeks CodePen challenge. It's very tough but I'm getting there :) #100DaysOfCode #Codepenchallenge
 
 **Thoughts**: Zaenkrat končal HTML za Forms project, rabim samo še CSS. To nujno jutri dokončaj.
+
+### Day 9: July 14, 2018
+
+**Today's Progress**: Finally finished my first #codepenchallenge 😜I can't believe it, but I think that is really a good start of something big! Here it is: https://codepen.io/janez33/full/bjVoPx/
+
+**Thoughts**: Končno končal moj prvi CodePenChallenge. Jutri nujno poslušaj FMSyntax Design Systems. Nadaljuj z Grid sistemom na freecodecamp.
