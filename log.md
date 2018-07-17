@@ -61,3 +61,9 @@
 **Today's Progress**: Finally finished my first #codepenchallenge 😜I can't believe it, but I think that is really a good start of something big! Here it is: https://codepen.io/janez33/full/bjVoPx/
 
 **Thoughts**: Končno končal moj prvi CodePenChallenge. Jutri nujno poslušaj FMSyntax Design Systems. Nadaljuj z Grid sistemom na freecodecamp.
+
+### Day 10: July 15, 2018
+
+**Today's Progress**: Learned CSS Grid. I'm finally done with my freecodecamp Responsive Web Design lessons. Before I start building Responsive Web Design Projects for my certificate I will play https://cssgridgarden.com/ Future awaits ☺️
+
+**Thoughts**: Takoj ko končaš z cssgrid garden začni delati projecte, potem pa takoj na javascrip naprej po udacity.
