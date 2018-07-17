@@ -62,7 +62,7 @@
 
 **Thoughts**: Končno končal moj prvi CodePenChallenge. Jutri nujno poslušaj FMSyntax Design Systems. Nadaljuj z Grid sistemom na freecodecamp.
 
-### Day 10: July 15, 2018
+### Day 10: July 17, 2018
 
 **Today's Progress**: Learned CSS Grid. I'm finally done with my freecodecamp Responsive Web Design lessons. Before I start building Responsive Web Design Projects for my certificate I will play https://cssgridgarden.com/ Future awaits ☺️
 
