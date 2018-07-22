@@ -67,3 +67,9 @@
 **Today's Progress**: Learned CSS Grid. I'm finally done with my freecodecamp Responsive Web Design lessons. Before I start building Responsive Web Design Projects for my certificate I will play https://cssgridgarden.com/ Future awaits ☺️
 
 **Thoughts**: Takoj ko končaš z cssgrid garden začni delati projecte, potem pa takoj na javascrip naprej po udacity.
+
+### Day 11: July 22, 2018
+
+**Today's Progress**: Finished CSS Grid Garden😇 @playcodepip Also finished my first freecodecamp project - Tribute Page! :) I'm progressing, but one step at a time 🤠👊Link: https://codepen.io/janez33/full/GBWgQW/ … 
+
+**Thoughts**: Jutri naredi naslednje 4 projecte preko my freecodecamp in potem naprej!
