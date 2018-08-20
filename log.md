@@ -70,7 +70,7 @@
 
 ### Day 11: July 22, 2018
 
-**Today's Progress**: Finished CSS Grid Garden😇 @playcodepip Also finished my first freecodecamp project - Tribute Page! :) I'm progressing, but one step at a time 🤠👊Link: https://codepen.io/janez33/full/GBWgQW/ … 
+**Today's Progress**: Finished CSS Grid Garden😇 @playcodepip Also finished my first freecodecamp project - Tribute Page! :) I'm progressing, but one step at a time 🤠👊Link: https://codepen.io/janez33/full/GBWgQW/ …
 
 **Thoughts**: Jutri naredi naslednje 4 projecte preko my freecodecamp in potem naprej!
 
@@ -79,3 +79,9 @@
 **Today's Progress**: Already finished my second freecodecamp project - Survey form (link below). I'm starting with my third project - Product Landing page. Getting closer to my first certificate👊 Link: https://codepen.io/janez33/details/LBypRQ
 
 **Thoughts**: Vsaki dan delaj jebote, manj igraj Counter-Strike!
+
+### Day 13: August 20, 2018
+
+**Today's Progress**: I'm back with good mindset. I finished my third freecodecamp project - Product Landing page. I took me too much time to finish it, most of the time I was dealing with flexbox positioning and design. But here I am - stronger 💪. Link: https://codepen.io/janez33/details/GByXLY/
+
+**Thoughts**: Say NO to other stuff and keep your mindset focused!
