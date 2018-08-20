@@ -85,3 +85,9 @@
 **Today's Progress**: I'm back with good mindset. I finished my third freecodecamp project - Product Landing page. I took me too much time to finish it, most of the time I was dealing with flexbox positioning and design. But here I am - stronger 💪. Link: https://codepen.io/janez33/details/GByXLY/
 
 **Thoughts**: Say NO to other stuff and keep your mindset focused!
+
+### Day 14: August 20, 2018
+
+**Today's Progress**: I'm back to my @udacity Front-End Developer course that I started back in January 2017. Many days lost and wasted but more important is that I'm back on my path. I learned about While loops and finished 3 hard quizzes. I'm determined to finish this course.
+
+**Thoughts**: Hard mode is the way to go! To the moon!!!! 🚀🌝🌝🌝
