@@ -86,8 +86,14 @@
 
 **Thoughts**: Say NO to other stuff and keep your mindset focused!
 
-### Day 14: August 20, 2018
+### Day 14: August 20, 2018 (same day)
 
 **Today's Progress**: I'm back to my @udacity Front-End Developer course that I started back in January 2017. Many days lost and wasted but more important is that I'm back on my path. I learned about While loops and finished 3 hard quizzes. I'm determined to finish this course.
 
 **Thoughts**: Hard mode is the way to go! To the moon!!!! 🚀🌝🌝🌝
+
+### Day 15: August 21, 2018
+
+**Today's Progress**: I prepared HTML code for my third freecodecamp project - Technical Documentation Page. Tomorrow I'm doing pure CSS to style it. It's too late now :/
+
+**Thoughts**: Tomorow I'm also doing Udacity course. :)
