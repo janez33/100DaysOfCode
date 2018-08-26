@@ -103,3 +103,9 @@
 **Today's Progress**: My fourth project on freeCodeCamp for HTML & CSS section. It was quite simple, first I wrote HTML and then add the styling. I think I'm gonna be a good front-end web developer. 😋 One more project to go and then my first certificate!
 
 **Thoughts**: Speed up, soldier!
+
+### Day 17: August 26, 2018
+
+**Today's Progress**: Day 17: Finished Lesson 4: Loops in Intro to Javascript course from Udacity. 6 more hours to finished the rest of the course. I know how to write a for loop. 😜
+
+**Thoughts**: For loops are cool, I'm good.
