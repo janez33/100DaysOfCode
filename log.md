@@ -97,3 +97,9 @@
 **Today's Progress**: I prepared HTML code for my third freecodecamp project - Technical Documentation Page. Tomorrow I'm doing pure CSS to style it. It's too late now :/
 
 **Thoughts**: Tomorow I'm also doing Udacity course. :)
+
+### Day 16: August 26, 2018
+
+**Today's Progress**: My fourth project on freeCodeCamp for HTML & CSS section. It was quite simple, first I wrote HTML and then add the styling. I think I'm gonna be a good front-end web developer. 😋 One more project to go and then my first certificate!
+
+**Thoughts**: Speed up, soldier!
