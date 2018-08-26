@@ -106,6 +106,6 @@
 
 ### Day 17: August 26, 2018
 
-**Today's Progress**: Day 17: Finished Lesson 4: Loops in Intro to Javascript course from Udacity. 6 more hours to finished the rest of the course. I know how to write a for loop. 😜
+**Today's Progress**: Finished Lesson 4: Loops in Intro to Javascript course from Udacity. 6 more hours to finished the rest of the course. I know how to write a for loop. 😜
 
 **Thoughts**: For loops are cool, I'm good.
