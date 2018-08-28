@@ -109,3 +109,10 @@
 **Today's Progress**: Day 17: Finished Lesson 4: Loops in Intro to Javascript course from Udacity. 6 more hours to finished the rest of the course. I know how to write a for loop. 😜
 
 **Thoughts**: For loops are cool, I'm good.
+
+### Day 18: August 28, 2018
+
+**Today's Progress**: Day 18: I made some good progress through Functions lesson (Javascript Udacity Course) with few finished quizes. Looking forward for my last freeCodeCamp challenge - portfolio page. Things are looking good! 🤞😜
+
+**Thoughts**: I will become a front-end web developer. I know I will. I know!
+
