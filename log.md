@@ -116,3 +116,8 @@
 
 **Thoughts**: I will become a front-end web developer. I know I will. I know!
 
+### Day 19 & 20: September 2, 2018
+
+**Today's Progress**: I finished Lesson 5: Functions in Intro to Javascript course from Udacity and also finished almost half of Arrays lesson. I think this takes for 2 days. I'm getting stronger :D Quizes are ez.
+
+**Thoughts**: Vsak dan, tika-taka!
