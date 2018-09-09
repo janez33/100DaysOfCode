@@ -121,3 +121,21 @@
 **Today's Progress**: I finished Lesson 5: Functions in Intro to Javascript course from Udacity and also finished almost half of Arrays lesson. I think this takes for 2 days. I'm getting stronger :D Quizes are ez.
 
 **Thoughts**: Vsak dan, tika-taka!
+
+### Day 21: September 8, 2018
+
+**Today's Progress**: Working on my last (fifth) project on freeCodeCamp for HTML & CSS section. I managed to draw a responsive design and made a grid system inside a grid system. I think it will look cool when finished. I'm not giving up 😎 Javascript awaits!
+
+**Thoughts**: Končno se nekaj dogaja :D
+
+### Day 22: September 9, 2018
+
+**Today's Progress**: Finished first section (Introduction) for my Personal Portfolio Webpage on freeCodeCamp. Only 2 sections left: projects and contact section. It should be easy, I think I'm spending too much on a design than actual experience. CSSGrid is almost responsive.😂
+
+**Thoughts**: Predolgo časa to vse vkup traja.
+
+### Day 23: September 10, 2018
+
+**Today's Progress**: Today I implemented Typography to my Personal Portfolio Webpage project which I learned from this article (https://bit.ly/2NxpMJl ). Tomorrow I will try to finish the whole project beacuse I think I'm spending too much on the details.
+
+**Thoughts**: Končaj tale zadnji project in potem hitro na druge strani. Življenje je prekratko za detajle 😁.
