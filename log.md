@@ -139,3 +139,9 @@
 **Today's Progress**: Today I implemented Typography to my Personal Portfolio Webpage project which I learned from this article (https://bit.ly/2NxpMJl ). Tomorrow I will try to finish the whole project beacuse I think I'm spending too much on the details.
 
 **Thoughts**: Končaj tale zadnji project in potem hitro na druge strani. Življenje je prekratko za detajle 😁.
+
+### Day 24: September 17, 2018
+
+**Today's Progress**: Today I was working on the second section of my Personal Portfolio Webpage for freeCodeCamp project. HTML is finished, now I need to implement Grid system and some CSS to beautify this section 🤞I know I will finish it this week :) I must 😂
+
+**Thoughts**: Detajli so vse :) Ampak ne VSE ;)
