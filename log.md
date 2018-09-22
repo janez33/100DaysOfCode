@@ -145,3 +145,9 @@
 **Today's Progress**: Today I was working on the second section of my Personal Portfolio Webpage for freeCodeCamp project. HTML is finished, now I need to implement Grid system and some CSS to beautify this section 🤞I know I will finish it this week :) I must 😂
 
 **Thoughts**: Detajli so vse :) Ampak ne VSE ;)
+
+### Day 25: September 22, 2018
+
+**Today's Progress**: I finished Arrays section in Intro to Javascript course from Udacity. I like arrays very much and I was able to finish all of the quizes in this section without any real effort 😁 Guess I'm becoming stronger :)
+
+**Thoughts**: Cool zdaj pa jutri še končaš zadnjo sekcijo in lahko greš naprej po coursu končno :)
