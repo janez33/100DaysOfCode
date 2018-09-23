@@ -151,3 +151,9 @@
 **Today's Progress**: I finished Arrays section in Intro to Javascript course from Udacity. I like arrays very much and I was able to finish all of the quizes in this section without any real effort 😁 Guess I'm becoming stronger :)
 
 **Thoughts**: Cool zdaj pa jutri še končaš zadnjo sekcijo in lahko greš naprej po coursu končno :)
+
+### Day 26: September 23, 2018
+
+**Today's Progress**: Finally managed to finish project section for my personal portfolio. I created responsive spacing styling. I only need to make social icons section and then I'm done with this shit forever :D
+
+**Thoughts**: Lepo si naredil, še malo pa boš :)
