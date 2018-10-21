@@ -157,3 +157,9 @@
 **Today's Progress**: Finally managed to finish project section for my personal portfolio. I created responsive spacing styling. I only need to make social icons section and then I'm done with this shit forever :D
 
 **Thoughts**: Lepo si naredil, še malo pa boš :)
+
+### Day 27: October 21, 2018
+
+**Today's Progress**: After 1 month I'm finally back. I finished Intro to Javascript Udacity course - finally!!!! 🎉🎉🎉 Last section was about Objects and I love them! 💘 Next course i Intro to jQuery.
+
+**Thoughts**: Super, zdaj pa res vsak dan, brez prestanka in uspeh bo zagotovljen! 😊😊😊 Show must go on! 👨‍🎤
