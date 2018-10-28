@@ -163,3 +163,15 @@
 **Today's Progress**: After 1 month I'm finally back. I finished Intro to Javascript Udacity course - finally!!!! 🎉🎉🎉 Last section was about Objects and I love them! 💘 Next course i Intro to jQuery.
 
 **Thoughts**: Super, zdaj pa res vsak dan, brez prestanka in uspeh bo zagotovljen! 😊😊😊 Show must go on! 👨‍🎤
+
+### Day 28: October 23, 2018
+
+**Today's Progress**: Today I started jQuery course on Udacity, cool stuff, good quizes! Learned about selectors and how jQuery is good for you :)
+
+**Thoughts**:  Komaj čakam, da se preselim bližje službi in bo učenje šlo še lažje :)
+
+### Day 29: October 28, 2018
+
+**Today's Progress**: Almost finished lesson 2 on jQuery Udacity course. Quizes are nice, I managed to finished them with a little more effort than usually. Planning to finish jQuery course this week 👊🤠🎃
+
+**Thoughts**: Ta teden pa res, potrudi se, da končaš ta jebeni jQuery course pa landing page za freecodecamp. samo ne igrati counter strike :)
