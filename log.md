@@ -175,3 +175,9 @@
 **Today's Progress**: Almost finished lesson 2 on jQuery Udacity course. Quizes are nice, I managed to finished them with a little more effort than usually. Planning to finish jQuery course this week 👊🤠🎃
 
 **Thoughts**: Ta teden pa res, potrudi se, da končaš ta jebeni jQuery course pa landing page za freecodecamp. samo ne igrati counter strike :)
+
+### Day 30: October 29, 2018
+
+**Today's Progress**: Finished jQuery course from Udacity, next lesson: Object-oriented javascript from Hackreactor :D I won't stop now :) 1/3 of 100Days here we go :) 
+
+**Thoughts**: jQuery je zakon upam da bo tako ostalo še naprej pa razumljivo :) Čimprej začni delati strani :) 
