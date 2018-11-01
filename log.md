@@ -180,4 +180,10 @@
 
 **Today's Progress**: Finished jQuery course from Udacity, next lesson: Object-oriented javascript from Hackreactor :D I won't stop now :) 1/3 of 100Days here we go :) 
 
-**Thoughts**: jQuery je zakon upam da bo tako ostalo še naprej pa razumljivo :) Čimprej začni delati strani :) 
+**Thoughts**: jQuery je zakon upam da bo tako ostalo še naprej pa razumljivo :) Čimprej začni delati strani :)
+
+### Day 31: October 31, 2018
+
+**Today's Progress**: My fifth and last project on freeCodeCamp for HTML & CSS section. 2 months in making, beacuse I'm a lazy person, but finally it's here :) My first certificate and Personal Portfolio page 😀😎🥳🥳🥳🥳
+
+**Thoughts**: Končno to naredil, preveč, preveč dolgo je trajalo ampak se je splačalo res, bolj mi je jasen flex in grid system ampak bo še potrebno veliko dela, komaj čakam :)
