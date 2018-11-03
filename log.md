@@ -187,3 +187,9 @@
 **Today's Progress**: My fifth and last project on freeCodeCamp for HTML & CSS section. 2 months in making, beacuse I'm a lazy person, but finally it's here :) My first certificate and Personal Portfolio page 😀😎🥳🥳🥳🥳
 
 **Thoughts**: Končno to naredil, preveč, preveč dolgo je trajalo ampak se je splačalo res, bolj mi je jasen flex in grid system ampak bo še potrebno veliko dela, komaj čakam :)
+
+### Day 32: November 4, 2018
+
+**Today's Progress**: Completed CSS Grid course from Scrimba for better understanding of CSS layout. Started to build landing page for a challenge from https://www.frontendmentor.io/. Feels good, visual studio code is just amazing 😍
+
+**Thoughts**: Jutri dokončaj ta landing page in lahko delaš naprej tutoriale od freeCodeCampa ali pa začneš graditi svoj landing page za sloveniabeforeyoudie, ki si ga kupil iz themeforesta.
