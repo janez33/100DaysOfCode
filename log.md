@@ -193,3 +193,9 @@
 **Today's Progress**: Completed CSS Grid course from Scrimba for better understanding of CSS layout. Started to build landing page for a challenge from https://www.frontendmentor.io/. Feels good, visual studio code is just amazing 😍
 
 **Thoughts**: Jutri dokončaj ta landing page in lahko delaš naprej tutoriale od freeCodeCampa ali pa začneš graditi svoj landing page za sloveniabeforeyoudie, ki si ga kupil iz themeforesta.
+
+### Day 33: November 11, 2018
+
+**Today's Progress**: Finally finished mobile design for @frontendmentor challenge, all I need to do is to set up those media queries and it's done :) Will share a link when finished :P Javascript awaits 🤞😎
+
+**Thoughts**: Končno lahko začnem graditi svojo spletno stran in delam zraven cel čas javascript course :) I can do it! :)
