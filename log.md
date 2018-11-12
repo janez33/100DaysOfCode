@@ -199,3 +199,9 @@
 **Today's Progress**: Finally finished mobile design for @frontendmentor challenge, all I need to do is to set up those media queries and it's done :) Will share a link when finished :P Javascript awaits 🤞😎
 
 **Thoughts**: Končno lahko začnem graditi svojo spletno stran in delam zraven cel čas javascript course :) I can do it! :)
+
+### Day 34: November 12, 2018
+
+**Today's Progress**: I'm half-way through media queries, forgot to set margins correctly when screen is getting bigger so I will do it next time. Hope I will finish whole design in probably 3 hours :) CSS takes time :D
+
+**Thoughts**: Res se dosti več naučiš ko nekaj delaš ampak včasih si v temi, ker ne poznaš teorije ampak jebiga, vse je dandanes na internetu :)
