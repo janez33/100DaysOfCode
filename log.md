@@ -205,3 +205,9 @@
 **Today's Progress**: I'm half-way through media queries, forgot to set margins correctly when screen is getting bigger so I will do it next time. Hope I will finish whole design in probably 3 hours :) CSS takes time :D
 
 **Thoughts**: Res se dosti več naučiš ko nekaj delaš ampak včasih si v temi, ker ne poznaš teorije ampak jebiga, vse je dandanes na internetu :)
+
+### Day 35: November 24, 2018
+
+**Today's Progress**: I'm finally back after 2 weeks. I haven't had the strength to deal with learning beacuse I'm buying new apartment and I have to deal with all this stress when buying expensive things. I finished second media querie 768px breakpoint, 2 more to go 😛😎🤭
+
+**Thoughts**: Končno kar velik napredek, malo težko bo edino poštudirati kako narediti flex container za footer, da bo credits prišel točno tam kjer mora :)
