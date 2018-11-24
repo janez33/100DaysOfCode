@@ -211,3 +211,9 @@
 **Today's Progress**: I'm finally back after 2 weeks. I haven't had the strength to deal with learning beacuse I'm buying new apartment and I have to deal with all this stress when buying expensive things. I finished second media querie 768px breakpoint, 2 more to go 😛😎🤭
 
 **Thoughts**: Končno kar velik napredek, malo težko bo edino poštudirati kako narediti flex container za footer, da bo credits prišel točno tam kjer mora :)
+
+### Day 36: November 24, 2018
+
+**Today's Progress**: Day 36: Finished third media querie - 992px :D One more to go, that one was really hard, I had to put a flexbox container to footer but it's working :D Huddle landing page will be finished soon, stay tuned :P @frontendmentor 👨‍🎓
+
+**Thoughts**: Končno rešil ta flexbox, res mi je zelo odleglo ampak sedaj je vse lažje, še zadnji media querie in potem je to to :) končno lahko grem se učit naprej javascripta in delat končno svojo stran, katera bo mimogrede awesome :P
