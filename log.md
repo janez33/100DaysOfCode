@@ -224,3 +224,8 @@
 
 **Thoughts**: Končno končal ta jebeni huddle landing page, preveč dolgo sem to zlagal pa meril, sedaj moram dobro zastaviti naslednji cilj, ne biti tako pikolovski, naštudirati javascript in delati page-e iz zakupljenega template-ta :D Voila!!!!
 
+### Day 38: December 1, 2018
+
+**Today's Progress**: Finished 4 lessons from Object-oriented Javascript from Udacity fron-end developer course: Scopes, Closuresm, "this" keyword and Prototype Chains. I'm almost half way through, hope I get quickly to practical part. Hope I will find more time, xmas is here!
+
+**Thoughts**: Delaj naprej javascript course na freecodecamp, udacity in svojo stran. Easy peasy lemon squeezy :) Em units font-size everything resposnive, remember!
