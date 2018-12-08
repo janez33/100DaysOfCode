@@ -229,3 +229,9 @@
 **Today's Progress**: Finished 4 lessons from Object-oriented Javascript from Udacity fron-end developer course: Scopes, Closuresm, "this" keyword and Prototype Chains. I'm almost half way through, hope I get quickly to practical part. Hope I will find more time, xmas is here!
 
 **Thoughts**: Delaj naprej javascript course na freecodecamp, udacity in svojo stran. Easy peasy lemon squeezy :) Em units font-size everything resposnive, remember!
+
+### Day 39: December 8, 2018
+
+**Today's Progress**: Today I finished 3 from Object-oriented Javascript from Udacity front-end developer course: Object Decorator Pattern, Functional Classes & Prototypal Classes. Tomorrow I start to dig deeper on JS course on freeCodeCamp.
+
+**Thoughts**: Koncepte je vedno dobro spoznati, da razumeš vse stvari :) Vprašaj še kaj kolega če ne boš vedel :)
