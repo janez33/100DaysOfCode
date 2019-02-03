@@ -235,3 +235,9 @@
 **Today's Progress**: Today I finished 3 from Object-oriented Javascript from Udacity front-end developer course: Object Decorator Pattern, Functional Classes & Prototypal Classes. Tomorrow I start to dig deeper on JS course on freeCodeCamp.
 
 **Thoughts**: Koncepte je vedno dobro spoznati, da razumeš vse stvari :) Vprašaj še kaj kolega če ne boš vedel :)
+
+### Day 40: February 3, 2019
+
+**Today's Progress**: Long time no see, but I'm back again, I moved to another town to be closer to my job. Today I continued work on freeCodeCamp - Arrays section and Udacity Constructors and object instances. Days are flying away so I need to hurry up. 
+
+**Thoughts**: To je to, začni delati na projektih kot so FB SLO Lactose Intolerant Page, sloveniabeforeyoudie wordpress & template page, freeCodeCamp and Udacity.
