@@ -241,3 +241,9 @@
 **Today's Progress**: Long time no see, but I'm back again, I moved to another town to be closer to my job. Today I continued work on freeCodeCamp - Arrays section and Udacity Constructors and object instances. Days are flying away so I need to hurry up. 
 
 **Thoughts**: To je to, začni delati na projektih kot so FB SLO Lactose Intolerant Page, sloveniabeforeyoudie wordpress & template page, freeCodeCamp and Udacity.
+
+### Day 41: February 24, 2019
+
+**Today's Progress**: Finally back on track. I finished Basic Javascript section on freecodeCamp, in the coming days I will try to finish my progress on udacity course and then I will be back for more freeCodeCamp courses 😋
+
+**Thoughts**: Končno en majhen progress, osredotoči se tako, da vsak dan nekaj narediš :)
