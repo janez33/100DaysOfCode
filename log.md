@@ -247,3 +247,9 @@
 **Today's Progress**: Finally back on track. I finished Basic Javascript section on freecodeCamp, in the coming days I will try to finish my progress on udacity course and then I will be back for more freeCodeCamp courses 😋
 
 **Thoughts**: Končno en majhen progress, osredotoči se tako, da vsak dan nekaj narediš :)
+
+### Day 42: February 26, 2019
+
+**Today's Progress**: (Yesterday) I finally finished course Object-oriented Javascript programming from Udacity. Final project awaits :D The Frogger Game. (https://www.youtube.com/watch?v=p2JhGrrwLuQ) I'm a little afraid of it but hope I will be able to finish it on my own :)
+
+**Thoughts**: Evo to je to kar si že delal enkrat sedaj pa znova, upam da bo šlo :D Potrudi se in če to rešiš te čaka svetla prihodnost :)
