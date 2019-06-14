@@ -253,3 +253,9 @@
 **Today's Progress**: (Yesterday) I finally finished course Object-oriented Javascript programming from Udacity. Final project awaits :D The Frogger Game. (https://www.youtube.com/watch?v=p2JhGrrwLuQ) I'm a little afraid of it but hope I will be able to finish it on my own :)
 
 **Thoughts**: Evo to je to kar si že delal enkrat sedaj pa znova, upam da bo šlo :D Potrudi se in če to rešiš te čaka svetla prihodnost :)
+
+### Day 43: June 14, 2019
+
+**Today's Progress**: After a long break I'm back to the game :) Today I learned about how to create object instances and finished their exercise using constructor function. MDN web docs has amazing tutorial for beginners with very good explanation. Frogger awaits 🐸😇
+
+**Thoughts**: Končno malo več časa, da se lahko spet učim :) Zanima me, če lahko od zdaj naprej vsak dan objavim :)
