@@ -259,3 +259,9 @@
 **Today's Progress**: After a long break I'm back to the game :) Today I learned about how to create object instances and finished their exercise using constructor function. MDN web docs has amazing tutorial for beginners with very good explanation. Frogger awaits 🐸😇
 
 **Thoughts**: Končno malo več časa, da se lahko spet učim :) Zanima me, če lahko od zdaj naprej vsak dan objavim :)
+
+### Day 44: June 21, 2019
+
+**Today's Progress**: Finally finished my first javascript project :) I'm so proud 👨‍🎓😃😎 Hope you love it :) https://codepen.io/janez33/full/BepwqE
+
+**Thoughts**: Mi je vzelo kar precej časa, ampak to je to :D Zdaj preostanejo samo še tehnične izboljšave :)
