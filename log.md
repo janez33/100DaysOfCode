@@ -265,3 +265,9 @@
 **Today's Progress**: Finally finished my first javascript project :) I'm so proud 👨‍🎓😃😎 Hope you love it :) https://codepen.io/janez33/full/BepwqE
 
 **Thoughts**: Mi je vzelo kar precej časa, ampak to je to :D Zdaj preostanejo samo še tehnične izboljšave :)
+
+### Day 45: June 23, 2019
+
+**Today's Progress**: Today I finished reading section Object prototypes from MDN web docs. It's quite easy to understand the concept. I started to continue my freeCodeCamp curriculum on ES6. I finished the day with one exercise from hackerrank and one from CodeWars. 🤓🤓🧐
+
+**Thoughts**: Mislim, da bom kar dobro razumel OOJ tako, da ne bi smel imeti težav :) Cel čas išči priložnosti za delo in posodobi svoj življenjepis na vseh straneh. 
