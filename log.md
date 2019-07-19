@@ -271,3 +271,9 @@
 **Today's Progress**: Today I finished reading section Object prototypes from MDN web docs. It's quite easy to understand the concept. I started to continue my freeCodeCamp curriculum on ES6. I finished the day with one exercise from hackerrank and one from CodeWars. 🤓🤓🧐
 
 **Thoughts**: Mislim, da bom kar dobro razumel OOJ tako, da ne bi smel imeti težav :) Cel čas išči priložnosti za delo in posodobi svoj življenjepis na vseh straneh. 
+
+### Day 46: July 19, 2019
+
+**Today's Progress**: Finally finished ES6 section on freeCodeCamp. I think ES6 has some really powerful features and I really liked them. I need to get up on some serious project quickly :) Next section tomorrow: my favourite one - !)%=!)("$REGEX)(=!("!(#🥳🤞🤪 I can't wait :)
+
+**Thoughts**: ECMAScript 6 je ena izmed najboljših stvari. Komaj čakam, da jih bom lahko uporabljal v kakem projektu. Komaj čakam, da postanem junior developer :) In you face, bad people!
