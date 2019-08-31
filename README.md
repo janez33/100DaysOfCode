@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-Started on **[June 17, Sunday, 2018].** ![Janez Kolar's emoji][1 "This is my emoji."]
+Started on **[June 17, Sunday, 2018].** ![Janez Kolar's emoji](images/janez-emoji.gif)
 
 ## Contents
 
@@ -8,5 +8,3 @@ Started on **[June 17, Sunday, 2018].** ![Janez Kolar's emoji][1 "This is my emo
 * [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
-
-[1]: images/janez-emoji.gif
