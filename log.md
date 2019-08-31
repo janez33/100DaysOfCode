@@ -277,3 +277,9 @@
 **Today's Progress**: Finally finished ES6 section on freeCodeCamp. I think ES6 has some really powerful features and I really liked them. I need to get up on some serious project quickly :) Next section tomorrow: my favourite one - !)%=!)("$REGEX)(=!("!(#🥳🤞🤪 I can't wait :)
 
 **Thoughts**: ECMAScript 6 je ena izmed najboljših stvari. Komaj čakam, da jih bom lahko uporabljal v kakem projektu. Komaj čakam, da postanem junior developer :) In you face, bad people!
+
+### Day 47: August 31, 2019
+
+**Today's Progress**: I created my plan on courses that I plan to finish and today I started with a nice course from Wes Bos on mastering markdown :) I've restyled my 100days of code repository and added my emoji. Tomorrow I finish it and continue with F-E course from udemy^^ #100DaysOfCode 
+
+**Thoughts**: Končno si pošlihtal zadeve, uredil taske, zdaj pa jih samo izpolnjuj in se usmeri samo nato. Nič ni bolj pomembno kot to, da dokončaš zadeve, ki si si jih zastavil.
