@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-Started on **[June 17, Sunday, 2018].** ![janez](Animated.gif)
+Started on **[June 17, Sunday, 2018].** ![Janez Kolar emoji](janez-emoji.gif)
 
 ## Contents
 
