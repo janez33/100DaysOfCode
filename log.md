@@ -283,3 +283,9 @@
 **Today's Progress**: I created my plan on courses that I plan to finish and today I started with a nice course from Wes Bos on mastering markdown :) I've restyled my 100days of code repository and added my emoji. Tomorrow I finish it and continue with F-E course from udemy^^ #100DaysOfCode 
 
 **Thoughts**: Končno si pošlihtal zadeve, uredil taske, zdaj pa jih samo izpolnjuj in se usmeri samo nato. Nič ni bolj pomembno kot to, da dokončaš zadeve, ki si si jih zastavil.
+
+### Day 48: September 30, 2019
+
+**Today's Progress**: Day 48: Wow, back again after 1 month?!? Time flies so fast. Well, just finished Formatting with CSS of Udemy course: Build Responsive Real World Websites with HTML5 and CSS3.@jonasschmedtman is a great teacher and I definitely need to repeat the basics.🤓🚀🌛 
+
+**Thoughts**: Dejansko si ta mesec sprevidel, da si zmožen delati trdo za uspehe, vse ti uspeva tudi php programiranje, to leto bo še zanimivo^^ :)
