@@ -286,6 +286,6 @@
 
 ### Day 48: September 30, 2019
 
-**Today's Progress**: Day 48: Wow, back again after 1 month?!? Time flies so fast. Well, just finished Formatting with CSS of Udemy course: Build Responsive Real World Websites with HTML5 and CSS3.@jonasschmedtman is a great teacher and I definitely need to repeat the basics.🤓🚀🌛 
+**Today's Progress**: Wow, back again after 1 month?!? Time flies so fast. Well, just finished Formatting with CSS of Udemy course: Build Responsive Real World Websites with HTML5 and CSS3.@jonasschmedtman is a great teacher and I definitely need to repeat the basics.🤓🚀🌛 
 
 **Thoughts**: Dejansko si ta mesec sprevidel, da si zmožen delati trdo za uspehe, vse ti uspeva tudi php programiranje, to leto bo še zanimivo^^ :)

@@ -8,7 +8,7 @@ My name is Janez and this is my emoji!
 
 ## Contents
 
-* [Log - click here to see my progress](log.md)
+* **[Log - click here to see my progress](log.md)**
 * [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
