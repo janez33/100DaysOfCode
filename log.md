@@ -289,3 +289,9 @@
 **Today's Progress**: Wow, back again after 1 month?!? Time flies so fast. Well, just finished Formatting with CSS of Udemy course: Build Responsive Real World Websites with HTML5 and CSS3.@jonasschmedtman is a great teacher and I definitely need to repeat the basics.🤓🚀🌛 
 
 **Thoughts**: Dejansko si ta mesec sprevidel, da si zmožen delati trdo za uspehe, vse ti uspeva tudi php programiranje, to leto bo še zanimivo^^ :)
+
+### Day 49: November 12, 2019
+
+**Today's Progress**: Back after 1 month and a half. Finished HEADER section for OMNIFood project from Udemy course. Learned how to properly style buttons so they actually look like buttons :) Tomorrow I continue, I promise ;)
+
+**Thoughts**: Evo pa je šel spet 1 mesec in še nekaj dni, boš pa zdaj vsaj v zimskih mesecih delal toliko bolj, da dejansko nekam prideš :) Ni težko, ampak so basic stvari in se najdejo še kakšne stvari, ki jih do zdaj nisi vedel.
