@@ -295,3 +295,9 @@
 **Today's Progress**: Back after 1 month and a half. Finished HEADER section for OMNIFood project from Udemy course. Learned how to properly style buttons so they actually look like buttons :) Tomorrow I continue, I promise ;)
 
 **Thoughts**: Evo pa je šel spet 1 mesec in še nekaj dni, boš pa zdaj vsaj v zimskih mesecih delal toliko bolj, da dejansko nekam prideš :) Ni težko, ampak so basic stvari in se najdejo še kakšne stvari, ki jih do zdaj nisi vedel.
+
+### Day 50: November 24, 2019
+
+**Today's Progress**: My first special day :) I took more time to finished *meals, how it works and half of cities* section of OMNIFood project from udemy. Also Udemy stopped working so I had to take a break :) Can't wait to finish my first 100days 😜 Btw, anyone still uses clearfix?🙃
+
+**Thoughts**: Naučil si se kako uporabljati clearfix ko uporabljaš float. Vedno je potrebno narediti clearfix. Obstaja tudi novi property ki to reši display: flow-root. Drugače float je že malo zastarel, lahko kar uporabljaš flexbox. In gremo naprej! 😁
