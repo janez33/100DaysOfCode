@@ -301,3 +301,9 @@
 **Today's Progress**: My first special day :) I took more time to finished *meals, how it works and half of cities* section of OMNIFood project from udemy. Also Udemy stopped working so I had to take a break :) Can't wait to finish my first 100days 😜 Btw, anyone still uses clearfix?🙃
 
 **Thoughts**: Naučil si se kako uporabljati clearfix ko uporabljaš float. Vedno je potrebno narediti clearfix. Obstaja tudi novi property ki to reši display: flow-root. Drugače float je že malo zastarel, lahko kar uporabljaš flexbox. In gremo naprej! 😁
+
+### Day 51: November 26, 2019
+
+**Today's Progress**: Today I finished customer testimonials section for Omnifood project. What's left is sign up section, contact form and the footer. Jonas Schmedtmann is a really cool guy 👨‍🏫👌I will finish this course very fast. It's Beginning To Look A Lot Like Coding 👨‍💻🎅🎄
+
+**Thoughts**: Božični čas in seveda bom imel ogromno časa programirati :) Komaj čakam :P 
