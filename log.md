@@ -306,4 +306,10 @@
 
 **Today's Progress**: Today I finished customer testimonials section for Omnifood project. What's left is sign up section, contact form and the footer. Jonas Schmedtmann is a really cool guy 👨‍🏫👌I will finish this course very fast. It's Beginning To Look A Lot Like Coding 👨‍💻🎅🎄
 
-**Thoughts**: Božični čas in seveda bom imel ogromno časa programirati :) Komaj čakam :P 
+**Thoughts**: Božični čas in seveda bom imel ogromno časa programirati :) Komaj čakam :P
+
+### Day 52: February 20, 2020
+
+**Today's Progress**: Today I finished 8 exercises of Basic Data Structures from Javascript section on freeCodeCamp, I already know this section of javascript so I'm just going fast through it.
+
+**Thoughts**: Božični čas je mimo, pomlad je skoraj tukaj :) To sekcijo lahko dejansko delam vsak dan po 10 vaj 1 uro in končam to do poletja. The game is on.
