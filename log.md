@@ -319,3 +319,9 @@
 **Today's Progress**: I managed to finish Basic Data Structures section :) I think it was my fastest section, I'm getting faster with each lesson. And today I'm doing Basic Algorithm Scripting, will tweet again in the evening :)
 
 **Thoughts**: Ta sekcija je bila zabavna, všeč so mi objecti in arrayi, upam, da pridem čim hitreje do API-jev :)
+
+### Day 54: February 27, 2020
+
+**Today's Progress**: I finished 13 lessons in Basic Algorithm Scripting over 2 days, 3 more left, must finish it tomorrow. Next section is Object Oriented Programming🚀🤟 I need to speed up p 🤪 I will get back to Drupal for the weekend.  Let's see if I can post here every day🤔
+
+**Thoughts**: Jaz mislim, da mi kar grejo tile algoritmi, definitivno pa bom moral še vaditi na CodeWars, ker je zelo pomembno, da dobiš tempo kot ga imajo drugi.
