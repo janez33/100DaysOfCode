@@ -325,3 +325,9 @@
 **Today's Progress**: I finished 13 lessons in Basic Algorithm Scripting over 2 days, 3 more left, must finish it tomorrow. Next section is Object Oriented Programming🚀🤟 I need to speed up p 🤪 I will get back to Drupal for the weekend.  Let's see if I can post here every day🤔
 
 **Thoughts**: Jaz mislim, da mi kar grejo tile algoritmi, definitivno pa bom moral še vaditi na CodeWars, ker je zelo pomembno, da dobiš tempo kot ga imajo drugi.
+
+### Day 55: March 7, 2020
+
+**Today's Progress**: Last week I did OOP and today I finished with Functional programming section on @freeCodeCamp I'm not that quick as @florinpop1705 but I'm getting faster&smarter every day🤓 One more section before projects.🙌I'll finish this day with a random quote. night🌃#100DaysOfCode
+
+**Thoughts**: Funkcionalno programiranje je bilo kar zanimivo, ampak algoritmi bodo še bolj :D Komaj čakam projekte :)
