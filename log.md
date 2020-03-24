@@ -331,3 +331,9 @@
 **Today's Progress**: Last week I did OOP and today I finished with Functional programming section on @freeCodeCamp I'm not that quick as @florinpop1705 but I'm getting faster&smarter every day🤓 One more section before projects.🙌I'll finish this day with a random quote. night🌃#100DaysOfCode
 
 **Thoughts**: Funkcionalno programiranje je bilo kar zanimivo, ampak algoritmi bodo še bolj :D Komaj čakam projekte :)
+
+### Day 56: March 24, 2020
+
+**Today's Progress**: I'm back👨‍🏫, I've finished Intermediate Algorithm Scripting section, been doing it for almost 2 weeks, 3 lessons per day average, but anyways, here we are --> Javascript Projects ahead👌 Can't wait to finish them :) After that I will go back to HTML and CSS
+
+**Thoughts**: Bilo je težko, ampak do zdaj sem še vedno vse rešil :) Komaj čakam, da končam te projekte, dobim končno nov certifikat in grem nazaj spet na front-end in delat nove spletne strani, kul bo tudi wes boss :)
