@@ -337,3 +337,9 @@
 **Today's Progress**: I'm back👨‍🏫, I've finished Intermediate Algorithm Scripting section, been doing it for almost 2 weeks, 3 lessons per day average, but anyways, here we are --> Javascript Projects ahead👌 Can't wait to finish them :) After that I will go back to HTML and CSS
 
 **Thoughts**: Bilo je težko, ampak do zdaj sem še vedno vse rešil :) Komaj čakam, da končam te projekte, dobim končno nov certifikat in grem nazaj spet na front-end in delat nove spletne strani, kul bo tudi wes boss :)
+
+### Day 57: March 25, 2020
+
+**Today's Progress**: #1 of 5 DONE ✅Palindrome Checker First one wasn't hard, I think it took me about 30 min. Today I bought beginnerjavascript.com course from Wes Bos. Can't wait to dig deeper. Plan for tomorrow: #2 mini project, beginnerjavascript and maybe some HTML&CSS.
+
+**Thoughts**: Prvi ni bil tako težki, čakajo me rimske številke, verjetno bo fun :D upam da končam pod 2 uri :)
