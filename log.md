@@ -343,3 +343,9 @@
 **Today's Progress**: #1 of 5 DONE ✅Palindrome Checker First one wasn't hard, I think it took me about 30 min. Today I bought beginnerjavascript.com course from Wes Bos. Can't wait to dig deeper. Plan for tomorrow: #2 mini project, beginnerjavascript and maybe some HTML&CSS.
 
 **Thoughts**: Prvi ni bil tako težki, čakajo me rimske številke, verjetno bo fun :D upam da končam pod 2 uri :)
+
+### Day 58: March 26, 2020
+
+**Today's Progress**: #2 of 5 ✅Roman Numeral Converter Second mini project done, 3 more to go before new certificate to put it on my dashboard:DI also finished the contact form section for OmniFood project. Will try probably finish it in one week so I can do next projects.
+
+**Thoughts**: Drugi je bil kar zanimiv, naučil sem se kako lahko razbiješ številke na desetice, stotice in tisočice z simple loopom. Jutri bo še zanimivo, ko bom delal 3-ji mini projekt :)
