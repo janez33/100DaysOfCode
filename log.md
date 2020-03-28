@@ -349,3 +349,9 @@
 **Today's Progress**: #2 of 5 ✅Roman Numeral Converter Second mini project done, 3 more to go before new certificate to put it on my dashboard:DI also finished the contact form section for OmniFood project. Will try probably finish it in one week so I can do next projects.
 
 **Thoughts**: Drugi je bil kar zanimiv, naučil sem se kako lahko razbiješ številke na desetice, stotice in tisočice z simple loopom. Jutri bo še zanimivo, ko bom delal 3-ji mini projekt :)
+
+### Day 59: March 27, 2020
+
+**Today's Progress**: #3 of 5 ✅Caesars Cipher done, 2 more to go :) I've also finished part 1 of responsive media queries for Omnifood project. I admit, was a bit lazy today (Counter-Strike), but won't be tomorrow, I promise :D
+
+**Thoughts**: Ok, 3-ji tudi ni bil tako težek, malo bi se lahko lepše potrudil pri kodi ampak je naloga rešena tudi tako. Malo preveč CS-ja sem igral  danes ampak imam zadnji dan dopusta :)
