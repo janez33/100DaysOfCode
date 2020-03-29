@@ -355,3 +355,9 @@
 **Today's Progress**: #3 of 5 ✅Caesars Cipher done, 2 more to go :) I've also finished part 1 of responsive media queries for Omnifood project. I admit, was a bit lazy today (Counter-Strike), but won't be tomorrow, I promise :D
 
 **Thoughts**: Ok, 3-ji tudi ni bil tako težek, malo bi se lahko lepše potrudil pri kodi ampak je naloga rešena tudi tako. Malo preveč CS-ja sem igral  danes ampak imam zadnji dan dopusta :)
+
+### Day 60: March 28, 2020
+
+**Today's Progress**: #4 of 5 ✅ Telephone Number Validator This one was so fun and reminded me about how much I love Regex💌🤟 I've also completed section about media queries & browser optimization for Omnifood. Tomorrow the last project :=) Hope it goes smoothly :)
+
+**Thoughts**: Tale mini projekt je bil kar kul, regex mi kar gre :) Takoj ko dobiš certifikat je prva stvar, da čim hitreje končaš Omnifood, da lahko greš na Wes Bosa :)
