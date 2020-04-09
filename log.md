@@ -362,7 +362,7 @@
 
 **Thoughts**: Tale mini projekt je bil kar kul, regex mi kar gre :) Takoj ko dobiš certifikat je prva stvar, da čim hitreje končaš Omnifood, da lahko greš na Wes Bosa :)
 
-### Day 60: March 28, 2020
+### Day 61: March 28, 2020
 
 **Today's Progress**: Day 61: #5 of 5
 ✅ Cash Register DONE! :D That one was pretty hard, but I managed to do it, was up till 2 am in the morning and was to tired to tweet but now I'm proudly presenting my 2nd certificate from @freeCodeCamp
@@ -370,3 +370,8 @@
 
 **Thoughts**: To je bila verjetno najtežja naloga do zdaj ampak sem jo rešil čisto brez vsakršne pomoči, mogoče sem malo preveč dolgo reševal in si nisem lepo strukturiral naloge ampak ok imam certifikat :)
 
+### Day 62: April 9, 2020
+
+**Today's Progress**: Finally finished OmniFood Project and I'm feeling thank you 🥰 Tomorrow I'm going to finish the BONUS lecture and then back to #javascript 🙌🤓 Here is the link: https://janez33.github.io/omnifood-project/
+
+**Thoughts**: Zakon stran, sedaj dodan tudi jQuery, zgleda res kul, čez vikend sem pa že nazaj pri javascriptu. Komaj čakam :)
