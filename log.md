@@ -375,3 +375,9 @@
 **Today's Progress**: Finally finished OmniFood Project and I'm feeling thank you 🥰 Tomorrow I'm going to finish the BONUS lecture and then back to #javascript 🙌🤓 Here is the link: https://janez33.github.io/omnifood-project/
 
 **Thoughts**: Zakon stran, sedaj dodan tudi jQuery, zgleda res kul, čez vikend sem pa že nazaj pri javascriptu. Komaj čakam :)
+
+### Day 63: April 14, 2020
+
+**Today's Progress**: I took a break for a few days, finished BONUS lectures and I'm proudly preseting you--> My course completion certificate for "Build Responsive Real World Websites with HTML5 and CSS3" http://ude.my/UC-fc713867-4ec7-48d7-af5a-b2c5c6b39201 via @udemy
+
+**Thoughts**: Končno, bonus lekcija je bila kul, v bistvu sem dodal skripto za pošiljanje kontaktnega obrazca na strani + naštel je nekaj marketinških potez za izboljšanje strani. Jutri že nadaljujem z javascriptom z Wes Bossom. To bo noro! :)
