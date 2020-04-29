@@ -381,3 +381,9 @@
 **Today's Progress**: I took a break for a few days, finished BONUS lectures and I'm proudly preseting you--> My course completion certificate for "Build Responsive Real World Websites with HTML5 and CSS3" http://ude.my/UC-fc713867-4ec7-48d7-af5a-b2c5c6b39201 via @udemy
 
 **Thoughts**: Končno, bonus lekcija je bila kul, v bistvu sem dodal skripto za pošiljanje kontaktnega obrazca na strani + naštel je nekaj marketinških potez za izboljšanje strani. Jutri že nadaljujem z javascriptom z Wes Bossom. To bo noro! :)
+
+### Day 64: April 29, 2020
+
+**Today's Progress**: I've been quiet for a couple of days but I'm already 23 lessons deep in BeginnerJavascript course from Wes Bos. I have to admit I like his videos and I hope I get to projects section soon because I already know the basics stuff but I really need to repeat and fill blank spots in my knowledge of JS. See you soon, quarantine in Slovenia is ending today. #100DaysOfCode
+
+**Thoughts**: Kar dober course, pozorno poslušaj in si zapomni stvari, pa čimveč videjev poglej v čim kratkem času, da lahko začneš z zahtevnejšimi nalogami.
