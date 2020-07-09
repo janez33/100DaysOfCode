@@ -387,3 +387,10 @@
 **Today's Progress**: I've been quiet for a couple of days but I'm already 23 lessons deep in BeginnerJavascript course from Wes Bos. I have to admit I like his videos and I hope I get to projects section soon because I already know the basics stuff but I really need to repeat and fill blank spots in my knowledge of JS. See you soon, quarantine in Slovenia is ending today. #100DaysOfCode
 
 **Thoughts**: Kar dober course, pozorno poslušaj in si zapomni stvari, pa čimveč videjev poglej v čim kratkem času, da lahko začneš z zahtevnejšimi nalogami.
+
+### Day 65: July 9, 2020
+
+**Today's Progress**: I've finished Module 4 - The DOM — Working with HTML and CSS (course from Wes Bos - Beginner Javascript). It's so fun and it's exactly what I want to learn<3
+I've been quiet lately but will struggle to be more consistent :)also i'm looking for a study budy #100DaysOfCode 
+
+**Thoughts**: Končno si nazaj, pozabi zdaj na to, da ti je ušlo kar nekaj dni, bodi bolj hiter in se ne oziraj na to koliko imaš še pred sabo.
