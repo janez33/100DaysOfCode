@@ -394,3 +394,9 @@
 I've been quiet lately but will struggle to be more consistent :)also i'm looking for a study budy #100DaysOfCode 
 
 **Thoughts**: Končno si nazaj, pozabi zdaj na to, da ti je ušlo kar nekaj dni, bodi bolj hiter in se ne oziraj na to koliko imaš še pred sabo.
+
+### Day 66: July 31, 2020
+
+**Today's Progress**: Day 66: Today I finished first serious practice exercise Etch-a-Sketch. It was my 1st practice with HTMLcanvas and it was pretty fun. It reminded me of my childhood with Logo. I've also made progress on a wordpress siteI'm building it for a company that I work for.
+
+**Thoughts**: še 3 naloge in spet nova snov :)
