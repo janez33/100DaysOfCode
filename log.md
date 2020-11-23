@@ -400,3 +400,9 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 **Today's Progress**: Day 66: Today I finished first serious practice exercise Etch-a-Sketch. It was my 1st practice with HTMLcanvas and it was pretty fun. It reminded me of my childhood with Logo. I've also made progress on a wordpress siteI'm building it for a company that I work for.
 
 **Thoughts**: še 3 naloge in spet nova snov :)
+
+### Day 67: November 23, 2020
+
+**Today's Progress**: I'm continuing beginnerjavascript course from wes bos - so today I finished with BEDMAS, If Statements, Coercion, Ternaries and Conditional Abuse - basic stuff I already know but I need to get through to start with new exercises - like Array Cardio :) 
+
+**Thoughts**: Čim več vaj, čim več člankov preberi od front-enda da boš točno vedel pravila. Sprintaj si cheat sheete :) This will never stop! :)
