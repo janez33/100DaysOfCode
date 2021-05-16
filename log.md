@@ -406,3 +406,9 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 **Today's Progress**: I'm continuing beginnerjavascript course from wes bos - so today I finished with BEDMAS, If Statements, Coercion, Ternaries and Conditional Abuse - basic stuff I already know but I need to get through to start with new exercises - like Array Cardio :) 
 
 **Thoughts**: Čim več vaj, čim več člankov preberi od front-enda da boš točno vedel pravila. Sprintaj si cheat sheete :) This will never stop! :)
+
+### Day 68: May 16, 2021
+
+**Today's Progress**: Today I was continuing with @freeCodeCamp and finished 7 lessons from React section. I learned how to create a stateful component and created my first counter in React. React is cool, but I still don't understand it🤪I'm back :) Also survived covid19🤠
+
+**Thoughts**: Spet smo nazaj, kar kul se je spet učiti :) React ni tako zajeban, če imaš zraven nonstop dokumentacijo odprto :) Čim hitreje moraš končati tole, da lahko greš na svoj prvi React App :)
