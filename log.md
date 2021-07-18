@@ -412,3 +412,9 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 **Today's Progress**: Today I was continuing with @freeCodeCamp and finished 7 lessons from React section. I learned how to create a stateful component and created my first counter in React. React is cool, but I still don't understand it🤪I'm back :) Also survived covid19🤠
 
 **Thoughts**: Spet smo nazaj, kar kul se je spet učiti :) React ni tako zajeban, če imaš zraven nonstop dokumentacijo odprto :) Čim hitreje moraš končati tole, da lahko greš na svoj prvi React App :)
+
+### Day 69: July 18, 2021
+
+**Today's Progress**: Special day - 69 😅 I've finished Array Cardio and Loops section of begginerJavascript course from wes boss. Foreach, map, filter, reduce etc. Nothing new for me actually, but I want to progress..
+
+**Thoughts**: Se mi zdi, da nisem ravno konsistenten. Progress se pokaže samo s konsistentnostjo...
