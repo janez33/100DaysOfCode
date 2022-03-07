@@ -419,7 +419,7 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 
 **Thoughts**: Se mi zdi, da nisem ravno konsistenten. Progress se pokaže samo s konsistentnostjo...
 
-### Day 70: June 19, 2021
+### Day 70: July 19, 2021
 
 **Today's Progress**: Wow it's madness! Today I finished Face Detection/Pixelation Exercise from beginnerjavascript course from wesbos. It was very funny and it so cool to work with him when he is on camera :) I've also and finally get ESLint to work... Lol, now my Javascript will be 100% correct :D
 
