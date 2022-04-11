@@ -424,3 +424,9 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 **Today's Progress**: Wow it's madness! Today I finished Face Detection/Pixelation Exercise from beginnerjavascript course from wesbos. It was very funny and it so cool to work with him when he is on camera :) I've also and finally get ESLint to work... Lol, now my Javascript will be 100% correct :D
 
 **Thoughts**: Končno en fun exercise z HTML Canvasom, ki te spomni na dneve, ko si treniral Logo. Dejansko je neverjento, kaj vse lahko narediš v browserju.
+
+### Day 71: April 11, 2022
+
+**Today's Progress**: Day 71: Sorry - long time no see👋Today I learned about Event Loop and finished exercise 66 from Wes Bos - Beginner Javascript course. I'm back on the road to become better developer and to work through tutorial HELL 🔥👨‍🚒🧯 https://youtu.be/8aGhZQkoFbQ
+
+**Thoughts**: Končno malo sveže snovi in da malo napredujem v smeri javascripta. Še dosti je za dokončati :) 
