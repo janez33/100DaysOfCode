@@ -427,6 +427,12 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 
 ### Day 71: April 11, 2022
 
-**Today's Progress**: Day 71: Sorry - long time no see👋Today I learned about Event Loop and finished exercise 66 from Wes Bos - Beginner Javascript course. I'm back on the road to become better developer and to work through tutorial HELL 🔥👨‍🚒🧯 https://youtu.be/8aGhZQkoFbQ
+**Today's Progress**: Sorry - long time no see👋Today I learned about Event Loop and finished exercise 66 from Wes Bos - Beginner Javascript course. I'm back on the road to become better developer and to work through tutorial HELL 🔥👨‍🚒🧯 https://youtu.be/8aGhZQkoFbQ
 
-**Thoughts**: Končno malo sveže snovi in da malo napredujem v smeri javascripta. Še dosti je za dokončati :) 
+**Thoughts**: Končno malo sveže snovi in da malo napredujem v smeri javascripta. Še dosti je za dokončati :)
+
+### Day 72: April 19, 2022
+
+**Today's Progress**: Day 72: Just finished Redux course on #freeCodeCamp I must say things are getting logical and Hey I can know how to manage state :) Only 10 lessons and then projects 🤞
+
+**Thoughts**: Counter že vem narediti, zdaj moram samo še miniprojecte ki pridejo kmalu in končno novi certifikat po dolgem času :)
