@@ -436,3 +436,9 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 **Today's Progress**: Day 72: Just finished Redux course on #freeCodeCamp I must say things are getting logical and Hey I can know how to manage state :) Only 10 lessons and then projects 🤞
 
 **Thoughts**: Counter že vem narediti, zdaj moram samo še miniprojecte ki pridejo kmalu in končno novi certifikat po dolgem času :)
+
+### Day 73: October 8, 2022
+
+**Today's Progress**: So after hot summer and busy holidays I finally have more free time to learn and get back on track so I finished Docker tut which is the best tutorial I had ever done. I learned how to create docker image and add layers and run security check. See you  😊👨‍🎓
+
+**Thoughts**: Spet imam nazaj pravi mindset :) Let's go!!!
