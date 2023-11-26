@@ -449,3 +449,9 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
                       Twit Number 2: I just finished this cool tutorial on mySQL from freeCodeCamp (https://youtu.be/HXV3zeQKqGY) and it really gave me basic insight for how to work with tables - now I have to practice more and more writing queries to get very good at it! #100DaysOfCode
 
 **Thoughts**: Omg dobro da ni šlo več kot leto, ko se nisem nič učil :facepalm:
+
+### Day 75: November 26, 2023
+
+**Today's Progress**: Just finished last module 14 ES Modules and Structuring Larger before last 2 exercises for the BIG finish :) I've also started with LeetCode to get me back to programming algorithms.
+
+**Thoughts**: To je to, zdaj pa na težje naloge in buildanje aplikacij :) Konsistentna rutina in prideš daleč 🚀🚀
