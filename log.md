@@ -455,3 +455,9 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 **Today's Progress**: Just finished last module 14 ES Modules and Structuring Larger before last 2 exercises for the BIG finish :) I've also started with LeetCode to get me back to programming algorithms.
 
 **Thoughts**: To je to, zdaj pa na težje naloge in buildanje aplikacij :) Konsistentna rutina in prideš daleč 🚀🚀
+
+### Day 76: January 14, 2024
+
+**Today's Progress**: Finished penultimate lesson before finishing the whole Beginner Javascript tutorial. I think I'm back to my consistency 😅
+
+**Thoughts**: Mislim, da bom kar začel spet delati freeCodeCamp in bo to najbolj produktivno, ker tole je vzelo kar 4 leta za finishiranje tega course-a wtf kaj sem res 4 leta porabil za to??????
