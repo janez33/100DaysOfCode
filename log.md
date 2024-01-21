@@ -461,3 +461,9 @@ I've been quiet lately but will struggle to be more consistent :)also i'm lookin
 **Today's Progress**: Finished penultimate lesson before finishing the whole Beginner Javascript tutorial. I think I'm back to my consistency 😅
 
 **Thoughts**: Mislim, da bom kar začel spet delati freeCodeCamp in bo to najbolj produktivno, ker tole je vzelo kar 4 leta za finishiranje tega course-a wtf kaj sem res 4 leta porabil za to??????
+
+### Day 77: January 21, 2024
+
+**Today's Progress**: OMG after ALMOST 4 years I finished last lesson (Audio Visualizer Oscilloscope) from Wes Bos BeginnerJavascript course. I can't believe it but I think his courses arent not structured very cool beacuse you just repeat all the time of what is he doing and you are not doing it by yourself. I think I'm gonna start doing just freeCodeCamp since I'm 4 years behind :/ Need to finish that React certification.
+
+**Thoughts**: Mislim, da bom kar začel takoj finishiral naslednji react certifikation potem pa kar začel delati po seznamu vsaki dan in pa LeetCode seveda.
